@@ -1,0 +1,31 @@
+ADD_FIRST_ANCESTOR KINGSHAN Male
+ADD_WIFE QUEENANGA KINGSHAN
+ADD_CHILD QUEENANGA Chit Male
+ADD_CHILD QUEENANGA Ish Male
+ADD_CHILD QUEENANGA Vish Male
+ADD_CHILD QUEENANGA Aras Male
+ADD_CHILD QUEENANGA Satya Female
+ADD_WIFE Amba Chit
+ADD_WIFE Lika Vish
+ADD_WIFE Chitra Aras
+ADD_HUSBAND Vyan Satya
+ADD_CHILD Amba Dritha Female
+ADD_CHILD Amba Tritha Female
+ADD_CHILD Lika Vila Female
+ADD_CHILD Lika Chika Female
+ADD_CHILD Chitra Jnki Female
+ADD_CHILD Chitra Ahit Male
+ADD_CHILD Satya Vyas Male
+ADD_CHILD Satya Asva Male
+ADD_CHILD Satya Atya Female
+ADD_HUSBAND Jaya Dritha
+ADD_HUSBAND Arit Jnki
+ADD_WIFE Satvy Asva
+ADD_WIFE Krpi Vyas
+ADD_CHILD Dritha Yodhan Male
+ADD_CHILD Jnki Laki Male
+ADD_CHILD Jnki Lavnya Female
+ADD_CHILD Satvy Vasa Female
+ADD_CHILD Krpi Krithi Female
+ADD_CHILD Krpi Kriya Male
+ADD_CHILD Amba Virtha Male
